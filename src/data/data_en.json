@@ -1,0 +1,191 @@
+{
+    "Header": {
+        "title": "Innovative Web & Mobile Solutions",
+        "paragraph": "End-to-End Development for Web and Mobile Applications.",
+        "button": "Learn More"
+    },
+    "About": {
+        "title": "About Us",
+        "title2": "Why Choose Us",
+        "paragraph": "We are a passionate team at Pyadev, specializing in end-to-end creation of websites and mobile applications. Our mission is to deliver innovative digital solutions that cater to the specific needs of our clients. Whether you're a budding startup or an established enterprise, we're here to transform your ideas into digital reality. From initial concept to final deployment, we guide you through every step of the process, ensuring seamless and tailored outcomes aligned with your goals. Partner with us for your next digital project and experience the difference of an end-to-end approach in web and mobile development.",
+        "Why": [
+            "Uncompromising Quality",
+            "Expertise Across Platforms",
+            "Tailored Solutions",
+            "Transparent Communication"
+        ],
+        "Why2": [
+            "Competitive Pricing",
+            "Proven Track Record",
+            "Commitment to Deadlines",
+            "Dedicated Support"
+        ]
+    },
+    "Features": {
+        "title": "Features",
+        "features": [
+            {
+                "icon": "fa fa-comments-o",
+                "title": "Tailored Mobile Experiences",
+                "text": "Craft bespoke mobile applications that align perfectly with your business goals and user needs, ensuring a seamless and engaging experience across all devices."
+            },
+            {
+                "icon": "fa fa-bullhorn",
+                "title": "Innovative Web Solutions",
+                "text": "Create stunning websites that combine cutting-edge design with powerful functionality, optimized for performance and user satisfaction."
+            },
+            {
+                "icon": "fa fa-group",
+                "title": "Harnessing AI for Efficiency",
+                "text": "Implement AI-powered solutions to automate processes, enhance decision-making, and unlock new insights, driving operational efficiency and innovation."
+            },
+            {
+                "icon": "fa fa-magic",
+                "title": "End-to-End Digital Transformation",
+                "text": "From concept to deployment, we offer complete digital transformation services, empowering businesses to thrive in the digital age with scalable and future-ready solutions."
+            }
+        ]
+    },
+    "Services": {
+        "title": "Services",
+        "services": [
+            {
+                "icon": "fa fa-wordpress",
+                "name": "WordPress Development",
+                "text": "Leverage the power of WordPress to create stunning websites that are easy to manage and scale, tailored to your unique needs."
+            },
+            {
+                "icon": "fa fa-cart-arrow-down",
+                "name": "E-Commerce Solutions",
+                "text": "Build robust e-commerce platforms that drive sales and enhance user experience, with seamless integration and secure payment gateways."
+            },
+            {
+                "icon": "fa fa-mobile",
+                "name": "Mobile App Development",
+                "text": "Craft bespoke mobile applications that align perfectly with your business goals and user needs, ensuring a seamless and engaging experience across all devices."
+            },
+            {
+                "icon": "fa fa-language",
+                "name": "Multilingual Websites",
+                "text": "Reach a global audience with multilingual websites that cater to diverse markets, ensuring a consistent user experience across languages."
+            },
+            {
+                "icon": "fa fa-plane",
+                "name": "SEO & Digital Marketing",
+                "text": "Boost your online visibility and drive traffic with SEO and digital marketing strategies that enhance your brand presence and engage your target audience."
+            },
+            {
+                "icon": "fa fa-pie-chart",
+                "name": "Custom Web Solutions",
+                "text": "Create stunning websites that combine cutting-edge design with powerful functionality, optimized for performance and user satisfaction."
+            }
+        ]
+    },
+    "Gallery": {
+        "title": "Gallery",
+        "projects": [
+            {
+                "title": "PURPL",
+                "largeImage": "img/portfolio/01-large.jpg",
+                "smallImage": "img/portfolio/01-small.jpg"
+            },
+            {
+                "title": "Project Title",
+                "largeImage": "img/portfolio/02-large.jpg",
+                "smallImage": "img/portfolio/02-small.jpg"
+            },
+            {
+                "title": "Project Title",
+                "largeImage": "img/portfolio/03-large.jpg",
+                "smallImage": "img/portfolio/03-small.jpg"
+            },
+            {
+                "title": "Project Title",
+                "largeImage": "img/portfolio/04-large.jpg",
+                "smallImage": "img/portfolio/04-small.jpg"
+            },
+            {
+                "title": "Project Title",
+                "largeImage": "img/portfolio/05-large.jpg",
+                "smallImage": "img/portfolio/05-small.jpg"
+            },
+            {
+                "title": "Project Title",
+                "largeImage": "img/portfolio/06-large.jpg",
+                "smallImage": "img/portfolio/06-small.jpg"
+            },
+            {
+                "title": "Project Title",
+                "largeImage": "img/portfolio/07-large.jpg",
+                "smallImage": "img/portfolio/07-small.jpg"
+            },
+            {
+                "title": "Project Title",
+                "largeImage": "img/portfolio/08-large.jpg",
+                "smallImage": "img/portfolio/08-small.jpg"
+            },
+            {
+                "title": "Project Title",
+                "largeImage": "img/portfolio/09-large.jpg",
+                "smallImage": "img/portfolio/09-small.jpg"
+            }
+        ]
+    },
+    "Testimonials": [
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [
+        {
+            "img": "img/team/01.jpg",
+            "name": "Yaacov Zerrad",
+            "job": "Founder & CEO"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Evan Azoulay",
+            "job": " CEO"
+        },
+        {
+            "img": "img/team/03.jpg",
+            "name": "Élie Sayada",
+            "job": "CTO"
+        }
+    ],
+    "Contact": {
+        "title": "Get In Touch",
+        "subtitle": "Please fill out the form below to send us an email and we will get back to you as soon as possible.",
+        "address": "68 Ha-tihon St, Haïfa, Israël ",
+        "phone": "+972 54 556 4449",
+        "email": "yaazerrad@gmail.com",
+        "button": "Send Message"
+    }
+}

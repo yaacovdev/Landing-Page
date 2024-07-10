@@ -1,0 +1,191 @@
+{
+    "Header": {
+        "title": "פתרונות אפליקציות אתרים ויישומים ",
+        "paragraph": "Android/IOS  פיתוח מקיף לאתרים ויישומים ניידים למערכות",
+        "button": "למידע נוסף"
+    },
+    "About": {
+        "title": "אודותינו",
+        "title2": "למה לבחור בנו",
+        "paragraph": "אנחנו צוות מטורף ב-Pyadev, המתמחה ביצירה מקיפה של אתרים ויישומים ניידים למערכות Android ו- iOS. משימתנו היא למסור פתרונות דיגיטליים חדשניים המתאימים לצרכים המיוחדים של לקוחותינו. בין שאתה חברה חדשה וצומחת או עסק מוכר, אנחנו כאן כדי להפוך את הרעיונות שלך למציאות דיגיטלית. מהרעיון הראשוני ועד לפרסום הסופי, אנו מלווים אותך בכל שלב של התהליך, ומבטיחים תוצאות חלקות ומותאמות היטב למטרותיך. שותפו איתנו לפרויקט הדיגיטלי הבא שלך וחוו את ההבדל של גישה מקיפה לפיתוח אתרים ויישומים ניידים.",
+        "Why": [
+            "איכות בלתי מתפשרת",
+            "מומחיות במגוון פלטפורמות",
+            "פתרונות מותאמים אישית",
+            "תקשורת שקופה"
+        ],
+        "Why2": [
+            "מחירים תחרותיים",
+            "רקורד מוכח",
+            "התחייבות למועדי סיום",
+            "תמיכה מסורה"
+        ]
+    },
+    "Features": {
+        "title": "יתרונות",
+        "features": [
+            {
+                "icon": "fa fa-mobile",
+                "title": "חוויות ניידות מותאמות",
+                "text": "יצירת יישומים ניידים בהתאמה אישית המתאימים באופן מושלם למטרות העסק שלך ולצרכי המשתמשים, מבטיחים חוויה חלקה ומעוררת השראה בכל המכשירים."
+            },
+            {
+                "icon": "fa fa-bullhorn",
+                "title": "פתרונות אינטרנט חדשניים",
+                "text": "יצירת אתרים מרהיבים שמשלבים עיצוב מתקדם עם פונקציות חזקות, מותאמים לביצועים ולשביעות רצון המשתמש."
+            },
+            {
+                "icon": "fa fa-group",
+                "title": "יישומי AI",
+                "text": "יישומי פתרונות בעזרת AI לאוטומציה של תהליכים, שיפור קבלת ההחלטות וגילוי תובנות חדשות, ממקים יעילות תפעולית וחדשנות."
+            },
+            {
+                "icon": "fa fa-magic",
+                "title": "תחזוקה דיגיטלית מקיפה",
+                "text": "מרעיון לפרסום, אנו מציעים שירותי שינוי דיגיטלי מלאים שמאפשרים לעסקים לצמוח בעידן הדיגיטלי עם פתרונות מותאמים לעתיד."
+            }
+        ]
+    },
+    "Services": {
+        "title": "שירותים",
+        "services": [
+            {
+                "icon": "fa fa-wordpress",
+                "name": "פיתוח וורדפרס",
+                "text": "נצל את כוחו של וורדפרס כדי ליצור אתרים מרהיבים שקל לנהל ולהרחיב, מותאמים לצרכים הייחודיים שלך."
+            },
+            {
+                "icon": "fa fa-cart-arrow-down",
+                "name": "פתרונות מסחר אלקטרוני",
+                "text": "בנה פלטפורמות מסחר אלקטרוני חזקות שמגבירות מכירות ומשפרות את חוויית המשתמש, עם שילוב חלק ושערי תשלום מאובטחים."
+            },
+            {
+                "icon": "fa fa-mobile",
+                "name": "פיתוח אפליקציות מובייל",
+                "text": "צור אפליקציות מובייל מותאמות אישית שמתאימות בצורה מושלמת למטרות העסקיות שלך ולצרכי המשתמשים, ומבטיחות חוויה חלקה ומרתקת בכל המכשירים."
+            },
+            {
+                "icon": "fa fa-language",
+                "name": "אתרים רב לשוניים",
+                "text": "הגע לקהל עולמי עם אתרים רב לשוניים המותאמים לשווקים שונים, ומבטיחים חוויית משתמש עקבית בכל השפות."
+            },
+            {
+                "icon": "fa fa-plane",
+                "name": "קידום אתרים ושיווק דיגיטלי",
+                "text": "הגדל את הנראות המקוונת שלך והגבר את התנועה באמצעות אסטרטגיות SEO ושיווק דיגיטלי שמגבירות את נוכחות המותג ומעסיקות את קהל היעד שלך."
+            },
+            {
+                "icon": "fa fa-pie-chart",
+                "name": "פתרונות אינטרנט מותאמים אישית",
+                "text": "צור אתרים מרהיבים המשלבים עיצוב מתקדם עם פונקציונליות חזקה, אופטימיזציה לביצועים ולשביעות רצון המשתמשים."
+            }
+        ]
+    },
+    "Gallery": {
+        "title": "גלריה",
+        "projects":
+        [
+        {
+            "title": "PURPL",
+            "largeImage": "img/portfolio/01-large.jpg",
+            "smallImage": "img/portfolio/01-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/02-large.jpg",
+            "smallImage": "img/portfolio/02-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/03-large.jpg",
+            "smallImage": "img/portfolio/03-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/04-large.jpg",
+            "smallImage": "img/portfolio/04-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/05-large.jpg",
+            "smallImage": "img/portfolio/05-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/06-large.jpg",
+            "smallImage": "img/portfolio/06-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/07-large.jpg",
+            "smallImage": "img/portfolio/07-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/08-large.jpg",
+            "smallImage": "img/portfolio/08-small.jpg"
+        },
+        {
+            "title": "Project Title",
+            "largeImage": "img/portfolio/09-large.jpg",
+            "smallImage": "img/portfolio/09-small.jpg"
+        }
+    ]},
+    "Testimonials": [
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [
+      {
+        "img": "img/team/01.jpg",
+        "name": "Yaacov Zerrad",
+        "job": "מנהל"
+    },
+    {
+        "img": "img/team/02.jpg",
+        "name": "Evan Azoulay",
+        "job": "CEO"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Élie Sayada",
+      "job": "CTO"
+    }
+    ],
+    "Contact": {
+        "title": "צרו קשר",
+        "subtitle": "אנו כאן כדי לעזור לך להגשים את הרעיונות שלך ולהפוך אותם למציאות דיגיטלית. צרו איתנו קשר כדי לשוחח על הפרויקט הבא שלכם.",
+        "address": "68 Ha-tihon St, Haïfa, Israël ",
+        "phone": "+972 54 556 4449",
+        "email": "yaazerrad@gmail.com",
+        "button": "שלח"
+    }
+}

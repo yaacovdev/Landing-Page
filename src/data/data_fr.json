@@ -1,0 +1,191 @@
+{
+    "Header": {
+        "title": "Solutions Web & Mobiles Innovantes",
+        "paragraph": "Développement de bout en bout pour les applications Web et Mobiles.",
+        "button": "En savoir plus"
+    },
+    "Features": {
+        "title": "Avantages",
+        "features": [
+            {
+                "icon": "fa fa-comments-o",
+                "title": "Expériences Mobiles Personnalisées",
+                "text": "Créez des applications mobiles sur mesure qui s'alignent parfaitement avec vos objectifs commerciaux et les besoins de vos utilisateurs, assurant une expérience fluide et engageante sur tous les appareils."
+            },
+            {
+                "icon": "fa fa-bullhorn",
+                "title": "Solutions Web Innovantes",
+                "text": "Créez des sites web époustouflants qui combinent un design à la pointe de la technologie avec des fonctionnalités puissantes, optimisées pour la performance et la satisfaction des utilisateurs."
+            },
+            {
+                "icon": "fa fa-group",
+                "title": "Exploiter l'IA pour l'Efficacité",
+                "text": "Implémentez des solutions alimentées par l'IA pour automatiser les processus, améliorer la prise de décision et découvrir de nouvelles perspectives, stimulant l'efficacité opérationnelle et l'innovation."
+            },
+            {
+                "icon": "fa fa-magic",
+                "title": "Transformation Digitale de Bout en Bout",
+                "text": "De la conception au déploiement, nous offrons des services complets de transformation digitale, permettant aux entreprises de prospérer à l'ère numérique avec des solutions évolutives et prêtes pour l'avenir."
+            }
+        ]
+    },
+    "About": {
+        "title": "À propos de nous",
+        "title2": "Pourquoi nous choisir",
+        "paragraph": "Nous sommes une équipe passionnée chez Pyadev, spécialisée dans la création intégrale de sites web et d'applications mobiles. Notre mission est de fournir des solutions numériques innovantes qui répondent aux besoins spécifiques de nos clients. Que vous soyez une startup émergente ou une entreprise établie, nous sommes là pour transformer vos idées en réalité numérique. De la conception initiale au déploiement final, nous vous accompagnons à chaque étape du processus, garantissant des résultats fluides et adaptés alignés sur vos objectifs. Partenaire avec nous pour votre prochain projet numérique et découvrez la différence d'une approche intégrale dans le développement web et mobile.",
+        "Why": [
+            "Qualité sans compromis",
+            "Expertise sur plusieurs plateformes",
+            "Solutions sur mesure",
+            "Communication transparente"
+        ],
+        "Why2": [
+            "Tarification compétitive",
+            "Parcours éprouvé",
+            "Engagement envers les délais",
+            "Support dédié"
+        ]
+    },
+    "Services": {
+        "title": "Services",
+        "services": [
+            {
+                "icon": "fa fa-wordpress",
+                "name": "Développement WordPress",
+                "text": "Exploitez la puissance de WordPress pour créer des sites web époustouflants, faciles à gérer et à faire évoluer, adaptés à vos besoins uniques."
+            },
+            {
+                "icon": "fa fa-cart-arrow-down",
+                "name": "Solutions E-Commerce",
+                "text": "Construisez des plateformes e-commerce robustes qui stimulent les ventes et améliorent l'expérience utilisateur, avec une intégration transparente et des passerelles de paiement sécurisées."
+            },
+            {
+                "icon": "fa fa-mobile",
+                "name": "Développement d'Applications Mobiles",
+                "text": "Créez des applications mobiles sur mesure qui s'alignent parfaitement avec vos objectifs commerciaux et les besoins de vos utilisateurs, assurant une expérience fluide et engageante sur tous les appareils."
+            },
+            {
+                "icon": "fa fa-language",
+                "name": "Sites Web Multilingues",
+                "text": "Atteignez une audience mondiale avec des sites web multilingues qui répondent à divers marchés, garantissant une expérience utilisateur cohérente à travers les langues."
+            },
+            {
+                "icon": "fa fa-plane",
+                "name": "SEO & Marketing Digital",
+                "text": "Boostez votre visibilité en ligne et générez du trafic grâce à des stratégies de SEO et de marketing digital qui améliorent la présence de votre marque et engagent votre audience cible."
+            },
+            {
+                "icon": "fa fa-pie-chart",
+                "name": "Solutions Web Personnalisées",
+                "text": "Créez des sites web époustouflants qui combinent un design à la pointe de la technologie avec des fonctionnalités puissantes, optimisées pour la performance et la satisfaction des utilisateurs."
+            }
+        ]
+    },
+    "Gallery": {
+        "title": "Galerie",
+        "projects": [
+            {
+                "title": "PURPL",
+                "largeImage": "img/portfolio/01-large.jpg",
+                "smallImage": "img/portfolio/01-small.jpg"
+            },
+            {
+                "title": "Project Title",
+                "largeImage": "img/portfolio/02-large.jpg",
+                "smallImage": "img/portfolio/02-small.jpg"
+            },
+            {
+                "title": "Project Title",
+                "largeImage": "img/portfolio/03-large.jpg",
+                "smallImage": "img/portfolio/03-small.jpg"
+            },
+            {
+                "title": "Project Title",
+                "largeImage": "img/portfolio/04-large.jpg",
+                "smallImage": "img/portfolio/04-small.jpg"
+            },
+            {
+                "title": "Project Title",
+                "largeImage": "img/portfolio/05-large.jpg",
+                "smallImage": "img/portfolio/05-small.jpg"
+            },
+            {
+                "title": "Project Title",
+                "largeImage": "img/portfolio/06-large.jpg",
+                "smallImage": "img/portfolio/06-small.jpg"
+            },
+            {
+                "title": "Project Title",
+                "largeImage": "img/portfolio/07-large.jpg",
+                "smallImage": "img/portfolio/07-small.jpg"
+            },
+            {
+                "title": "Project Title",
+                "largeImage": "img/portfolio/08-large.jpg",
+                "smallImage": "img/portfolio/08-small.jpg"
+            },
+            {
+                "title": "Project Title",
+                "largeImage": "img/portfolio/09-large.jpg",
+                "smallImage": "img/portfolio/09-small.jpg"
+            }
+        ]
+    },
+    "Testimonials": [
+        {
+            "img": "img/testimonials/01.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/02.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/03.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/04.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        },
+        {
+            "img": "img/testimonials/05.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "John Doe"
+        },
+        {
+            "img": "img/testimonials/06.jpg",
+            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+            "name": "Johnathan Doe"
+        }
+    ],
+    "Team": [
+        {
+            "img": "img/team/01.jpg",
+            "name": "Yaacov Zerrad",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Evan Azoulay",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/03.jpg",
+            "name": "Élie Sayada",
+            "job": "CTO"
+        }
+    ],
+    "Contact": {
+        "title": "Entrer en contact",
+        "subtitle": "Veuillez remplir le formulaire ci-dessous pour nous envoyer un email et nous vous répondrons dans les plus brefs délais.",
+        "address": "68 Ha-tihon St, Haïfa, Israël ",
+        "phone": "+33 767502811",
+        "email": "yaazerrad@gmail.com",
+        "button": "Envoyer"
+    }
+}
